@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\my-personal-web",
+    "\\my-personal-web\\public",
+    "\\my-personal-web\\src"
   ],
-  "SelectedNode": "\\C:\\Users\\ayasm\\Source\\Repos\\personal-website",
+  "SelectedNode": "\\my-personal-web\\pages",
   "PreviewInSolutionExplorer": false
 }

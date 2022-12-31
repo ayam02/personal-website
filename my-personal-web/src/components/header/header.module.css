@@ -1,0 +1,17 @@
+.banner{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color:black;
+}
+.button{
+    background-color: transparent;
+    border: none;
+}
+.header{
+    color:whitesmoke;
+}
+.icon{
+    background-color: white;
+    
+}
